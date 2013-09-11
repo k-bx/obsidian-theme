@@ -15,7 +15,7 @@
         '(region ((t (:background "#804000" :foreground "#e0e2e4"))))
         '(highlight ((t (:background "#3c414c"))))
 	'(hl-line ((t (:background "#2f393c"))))
-	'(fringe ((t (:background "#232323" :foreground "#cfbfad"))))
+	'(fringe ((t (:background "#293134" :foreground "#cfbfad"))))
 	'(cursor ((t (:background "#626262"))))
         '(show-paren-match-face ((t (:background "#e8e2b7"))))
         '(isearch ((t (:bold t :foreground "#616161" :background "#e2e2e5"))))
